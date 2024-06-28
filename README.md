@@ -1,6 +1,6 @@
 # RiskShield AI
 
-Please find detailed solution at : [Link to PPT]
+Please find detailed solution at : [Presentation](RiskShieldAI.pptx)
 
 ## Overview
 
